@@ -1,6 +1,11 @@
 # HTML Meta Tags
 SEO friendly meta tags for HTML.
 
+**Table of Contents**  
+* [Basic HTML Meta Tags](#basics-html-meta-tags)
+* [OpenGraph Meta Tags](#opengraph-meta-tags)
+* [Custom Meta Tags](#custom-meta-tags)
+
 | Attribute             | Value | Description                           |
 |:----------------------|:------|:---------------------------------|
 | charset    | *character_set* | Specifies the character encoding for the HTML document |
