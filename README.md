@@ -16,6 +16,7 @@ SEO friendly meta tags for HTML.
 | name       | description | Define a description of your web page |
 | name       | author      | Define the author of a page           |
 | name       | viewport    | Setting the viewport to make your website look good on all device |
+| name       | theme       | Define a theme color for browsers. |
 
 ### Charset
 Specify your document's character encoding with the `charset` meta tag.
